@@ -1,7 +1,7 @@
 /**
 # Autor: Jonathan Hernández
 # Fecha: 04 Septiembre 2024
-# Descripción: Código para simulacion de los SVM (Maquinas de soporte Vectorial)
+# Descripción: Código para simulacion del tapete de Sierpinski 
 # GitHub: https://github.com/Jona163
 */
 
